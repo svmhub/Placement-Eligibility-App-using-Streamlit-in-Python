@@ -54,4 +54,6 @@ In this App, I have createdad the following tables as per the requirements and f
   9. It would be started and opened the default browser with respective URL of your streamlit application automatically.
   10. That's all.
 
-#  This is the way of running this streamlit application on your Windows PC. Thank you once again for visiting!!!
+#  This is the way of running this python streamlit application on your Windows PC. 
+
+# Thank you once again for visiting!!!
