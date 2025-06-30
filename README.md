@@ -1,6 +1,6 @@
 # Placement-Eligibility-App-using-Streamlit-in-Python
 
-### An User Interactive Dashboard creation using Streamlit package in Python
+### An User Interactive Dashboard Creation using Streamlit package in Python
 ### This has been prepared and developed in Windows 11 Pro OS Environment
 ### This is very good for the freshers to learn and start the web application without any IT Knowledge.
 
